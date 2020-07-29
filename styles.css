@@ -86,8 +86,9 @@ a:hover {
 }
 
 .post-author img {
-  width: 500px;
-  height: 500px;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
   vertical-align: middle;
 }
 
